@@ -1,0 +1,16 @@
+{
+  "name": "NPB Player DB",
+  "short_name": "NPB Player DB",
+  "description": "NPB選手成績・比較・ランキング・対戦アプリ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f3f6fb",
+  "theme_color": "#1d4ed8",
+  "lang": "ja",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
